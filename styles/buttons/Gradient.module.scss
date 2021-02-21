@@ -1,0 +1,7 @@
+@import "./comman";
+
+.button {
+  background: linear-gradient(45deg, #0101, #357, #478);
+  color: white;
+  @extend .comman;
+}

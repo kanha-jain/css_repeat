@@ -1,0 +1,7 @@
+@import "./comman";
+
+.button {
+  background: #333;
+  color: white;
+  @extend .comman;
+}
